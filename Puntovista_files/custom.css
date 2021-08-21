@@ -1,0 +1,11 @@
+/*aerticulos creado con sp builder desde joomla quite espacio blanco top bottom y lineas*/
+
+.com-content.view-article #sp-main-body {
+    padding: 50px 0PX !important;
+}
+.article-details .article-ratings-social-share {
+    padding: 0rem 0;
+    border-top: 0px solid #f5f5f5;
+    border-bottom: 0px solid #f5f5f5;
+    margin-bottom: 0rem;
+}
